@@ -1,0 +1,79 @@
+/* General Styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: linear-gradient(to right, #6a11cb, #2575fc);
+}
+
+/* Container Styling */
+.container {
+    background: #fff;
+    padding: 30px;
+    border-radius: 10px;
+    text-align: center;
+    width: 350px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+/* Headings */
+h2 {
+    margin-bottom: 20px;
+    color: #333;
+}
+
+/* Input Fields */
+input {
+    width: 100%;
+    padding: 12px;
+    margin: 10px 0;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    font-size: 16px;
+}
+
+/* Buttons */
+button {
+    width: 100%;
+    padding: 12px;
+    margin: 10px 0;
+    border-radius: 5px;
+    border: none;
+    font-size: 16px;
+    cursor: pointer;
+    color: white;
+}
+
+/* Login Button */
+.login-btn {
+    background: #2575fc;
+}
+.login-btn:hover {
+    background: #1a5ac7;
+}
+
+/* Register Button */
+.register-btn {
+    background: #28a745;
+}
+.register-btn:hover {
+    background: #218838;
+}
+
+/* Go Back Link */
+p a {
+    text-decoration: none;
+    color: #2575fc;
+    font-size: 14px;
+}
+p a:hover {
+    text-decoration: underline;
+}

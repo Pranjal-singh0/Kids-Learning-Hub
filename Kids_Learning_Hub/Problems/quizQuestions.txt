@@ -1,0 +1,4 @@
+What is the capital of France?|Berlin|Madrid|Paris|Rome|Paris
+Who discovered gravity?|Newton|Einstein|Galileo|Tesla|Newton
+What is the largest ocean?|Atlantic|Pacific|Indian|Arctic|Pacific
+Which planet is known as the Red Planet?|Earth|Mars|Jupiter|Venus|Mars
