@@ -1,1 +1,73 @@
 # Kids-Learning-Hub
+🎓 Kids Learning Hub
+
+Kids Learning Hub is an interactive educational platform designed for children to practice and improve their learning through fun quizzes, math problems, and knowledge challenges.
+
+🚀 Features
+
+🔑 User Authentication
+
+Login & Registration system with file-based storage
+
+➕ Math Learning Module
+
+Practice addition, subtraction, multiplication, and division
+
+Interactive interface with random problems
+
+Instant feedback (correct/incorrect answers)
+
+❓ Quiz Module
+
+General knowledge quizzes stored in text files
+
+Immediate results after answering
+
+Score tracking for each logged-in user
+
+🏆 Score Management
+
+Maintains individual score records
+
+Only shows the logged-in user’s progress
+
+📂 Project Structure
+KidsLearningHub/
+│── Interface/          # HTML Pages (Home, Login, Register)
+│── Logging_In/         # Login and Register logic
+│── Problems/           # Math & Quiz modules + problem text files
+│── Scores/             # User score storage
+│── app.js              # Express server setup
+│── main.js             # Core logic and route handling
+
+🎥 Demo
+
+👨‍💻 Tech Stack
+
+Backend: Node.js, Express.js
+
+Frontend: HTML, CSS, JavaScript
+
+Storage: Text files for problems, questions, and scores
+
+📌 Future Enhancements
+
+Add more subject modules (Science, English, etc.)
+
+Leaderboard for top scorers
+
+Graphical progress reports
+
+Mobile-friendly interface
+
+🤝 Contributing
+
+Fork the project
+
+Create a feature branch (git checkout -b feature-name)
+
+Commit your changes (git commit -m "Add feature")
+
+Push to the branch (git push origin feature-name)
+
+Open a Pull Request
