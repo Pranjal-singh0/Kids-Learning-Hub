@@ -41,6 +41,7 @@ KidsLearningHub/
 │── main.js             # Core logic and route handling
 
 🎥 Demo
+Video Record : https://drive.google.com/file/d/1zZOCzBENtuXdx5auqqF2S1ImTIqJm1pK/view?usp=drive_link
 Screen-Shots : 
 
 <img width="1920" height="1080" alt="Screenshot (5)" src="https://github.com/user-attachments/assets/2ccc6e69-062a-4278-a880-9ebaf398764c" />
